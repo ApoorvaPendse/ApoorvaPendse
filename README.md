@@ -2,7 +2,7 @@
 
 ```css
 ┌[apoorvapendse@git]-(~)
-└> mefetch
+└> cat me.js
 ```
  
  
