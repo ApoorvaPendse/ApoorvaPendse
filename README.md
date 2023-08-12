@@ -7,7 +7,7 @@
  
  
 <div style="display:block;text-align:left">
- <img align="left" src="https://github.com/apoorvapendse/apoorvapendse/assets/102853901/8dee6ab2-5006-4466-b881-4659b2c60269" border="0" style="width:276px;">
+ <img align="left" src="https://github.com/apoorvapendse/apoorvapendse/assets/102853901/8dee6ab2-5006-4466-b881-4659b2c60269" border="0" style="width:176px;">
 
   ```javascript
 
